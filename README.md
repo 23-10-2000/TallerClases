@@ -15,4 +15,4 @@ El proyecto tiene documentado de tal forma que el lector entienda que realice en
 Para poder ejecutar correctamente el proyecto "TallerClases" solo se tendra que descargar el archivo .Zip  y despues extraer los archivos para por ultimo ejecutarlo 
 en el IDE NetBeans
 
-       
+Al momento de ver el archivo que se subio note que todo estaba en español, pero creo que es gracias a el traductor de las paginas de google.      
